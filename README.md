@@ -3,7 +3,7 @@
 # `< Farida Moukhtar />`
 ### I build cool stuff. ✦
 
-*Software Engineer · Designer · Advocate · Human*
+*Software Engineer · Designer · Advocate*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://farida-moukhtar.framer.website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farida-moukhtar/)
